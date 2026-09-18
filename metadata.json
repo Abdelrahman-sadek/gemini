@@ -1,0 +1,6 @@
+{
+  "name": "MOHESR Digital Transformation Agents",
+  "description": "Strategic intelligence platform tracking official Egyptian Cabinet and MOHESR communications, government directives, cross-reference matrices, and digital transformation initiatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
